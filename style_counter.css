@@ -1,0 +1,17 @@
+body,
+.website-counter {
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    flex-direction: column;
+}
+
+body {
+    height: 100;
+}
+
+.website-counter {
+    display: bo-box;
+    float: left;
+    box-sizing: content-box;
+}
